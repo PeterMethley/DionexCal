@@ -1,0 +1,51 @@
+﻿Name,Type,Pos.,Inj. Vol.,Program,Method,Status,Inj. Date/Time,Weight,Dil. Fact.,ISTD A,Sample ID,Replicate ID,Comment,,,,,,,Na Area,K Area,NH4 Area,Mg Area,Ca Area
+SW50,Standard,GA1,100,CS16_No fractions,CS16,Finished,6/12/23 11:04,1,1,1,,,,,,,,,9655381b-0907-11ee-bcc4-b8ca3a9f8401,334.135652,7.868568,n.a.,74.791488,14.369921
+SW25,Standard,GA2,100,CS16_No fractions,CS16,Finished,6/12/23 11:41,1,1,1,,,,,,,,,c5457b20-090c-11ee-bcc4-b8ca3a9f8401,189.662762,4.426744,n.a.,42.43389,7.935175
+SW20,Standard,GA3,100,CS16_No fractions,CS16,Finished,6/12/23 12:18,1,1,1,,,,,,,,,f1838ed9-0911-11ee-bcc4-b8ca3a9f8401,141.518068,3.278109,n.a.,31.72939,5.814702
+SW15,Standard,GA4,100,CS16_No fractions,CS16,Finished,6/12/23 12:55,1,1,1,,,,,,,,,1db75037-0917-11ee-bcc4-b8ca3a9f8401,111.019959,2.548074,n.a.,24.749026,4.484754
+SW10,Standard,GA5,100,CS16_No fractions,CS16,Finished,6/12/23 13:32,1,1,1,,,,,,,,,4a0eba39-091c-11ee-bcc4-b8ca3a9f8401,77.651215,1.758711,n.a.,17.293443,3.012327
+SW5,Standard,GA6,100,CS16_No fractions,CS16,Finished,6/12/23 14:09,1,1,1,,,,,,,,,765f44ef-0921-11ee-bcc4-b8ca3a9f8401,34.631522,0.755404,n.a.,7.523657,1.174283
+SW2.5,Standard,GA7,100,CS16_No fractions,CS16,Finished,6/12/23 14:47,1,1,1,,,,,,,,,a2e5ac17-0926-11ee-bcc4-b8ca3a9f8401,18.211444,0.379694,n.a.,3.80865,0.573395
+SW0,Standard,GA8,100,CS16_No fractions,CS16,Finished,6/12/23 15:24,1,1,1,,,,,,,,,cf758f82-092b-11ee-bcc4-b8ca3a9f8401,0.010537,6.56E-04,n.a.,0.006476,0.001389
+ACMCr26,Unknown,RA1,100,CS16_No fractions,CS16,Finished,6/12/23 16:01,1,1,1,,,,,,,,,fb9f34f1-0930-11ee-bcc4-b8ca3a9f8401,0.058729,5.34E-04,n.a.,2.694239,2.373474
+E4B1R,Unknown,RA2,100,CS16_No fractions,CS16,Finished,6/12/23 16:38,1,1,1,,,,,,,,,2abe16df-0936-11ee-bcc4-b8ca3a9f8401,0.087792,0.003284,n.a.,0.226254,5.897579
+E4B1S1,Unknown,GB1,100,CS16_No fractions,CS16,Finished,6/12/23 17:15,1,1,1,,,,,,,,,56e76b5a-093b-11ee-bcc4-b8ca3a9f8401,36.65991,0.059613,n.a.,7.746865,1.311293
+E4B2S1,Unknown,GB2,100,CS16_No fractions,CS16,Finished,6/12/23 17:52,1,1,1,,,,,,,,,839ecdb0-0940-11ee-bcc4-b8ca3a9f8401,37.304093,0.062185,n.a.,7.899738,1.135221
+E4B1S2,Unknown,GB3,100,CS16_No fractions,CS16,Finished,6/12/23 18:29,1,1,1,,,,,,,,,b002baa2-0945-11ee-bcc4-b8ca3a9f8401,40.006546,0.065071,n.a.,8.520219,1.454619
+E4B2S2,Unknown,GB4,100,CS16_No fractions,CS16,Finished,6/12/23 19:06,1,1,1,,,,,,,,,dc4d77ba-094a-11ee-bcc4-b8ca3a9f8401,37.999721,0.062488,n.a.,8.09386,1.190639
+E4B1S3,Unknown,GB5,100,CS16_No fractions,CS16,Finished,6/12/23 19:43,1,1,1,,,,,,,,,08ab97c2-0950-11ee-bcc4-b8ca3a9f8401,40.410068,0.065424,n.a.,8.616966,1.494063
+E4B2S3,Unknown,GB6,100,CS16_No fractions,CS16,Finished,6/12/23 20:20,1,1,1,,,,,,,,,352e0841-0955-11ee-bcc4-b8ca3a9f8401,41.575124,0.068492,n.a.,8.894035,1.295306
+E4B1S4,Unknown,GB7,100,CS16_No fractions,CS16,Finished,6/12/23 20:57,1,1,1,,,,,,,,,6193ecfa-095a-11ee-bcc4-b8ca3a9f8401,46.093641,0.077393,n.a.,9.86174,1.743122
+E4B2S4,Unknown,GB8,100,CS16_No fractions,CS16,Finished,6/12/23 21:34,1,1,1,,,,,,,,,8de561d0-095f-11ee-bcc4-b8ca3a9f8401,47.164169,0.080296,n.a.,10.155846,1.394763
+E4B1S5,Unknown,GC1,100,CS16_No fractions,CS16,Finished,6/12/23 22:11,1,1,1,,,,,,,,,ba32b976-0964-11ee-bcc4-b8ca3a9f8401,58.927604,0.104798,n.a.,12.704872,2.314252
+E4B2S5,Unknown,GC2,100,CS16_No fractions,CS16,Finished,6/12/23 22:48,1,1,1,,,,,,,,,e6c7795b-0969-11ee-bcc4-b8ca3a9f8401,59.491358,0.1079,n.a.,12.91554,1.752738
+E4B1S6,Unknown,GC3,100,CS16_No fractions,CS16,Finished,6/12/23 23:25,1,1,1,,,,,,,,,13042e75-096f-11ee-bcc4-b8ca3a9f8401,61.66848,0.113939,n.a.,13.321582,2.446106
+E4B2S6,Unknown,GC4,100,CS16_No fractions,CS16,Finished,13/06/2023 00:02:34,1,1,1,,,,,,,,,3f34fd11-0974-11ee-bcc4-b8ca3a9f8401,65.006038,0.120012,n.a.,14.14956,1.904459
+E4B1S7,Unknown,GC5,100,CS16_No fractions,CS16,Finished,13/06/2023 00:39:36,1,1,1,,,,,,,,,6b5b2bf6-0979-11ee-bcc4-b8ca3a9f8401,83.449746,0.163499,n.a.,18.109261,3.376207
+E4B2S7,Unknown,GC6,100,CS16_No fractions,CS16,Finished,13/06/2023 01:16:38,1,1,1,,,,,,,,,97ae76a7-097e-11ee-bcc4-b8ca3a9f8401,89.862553,0.176457,n.a.,19.666973,2.700646
+E4B1S8,Unknown,GC7,100,CS16_No fractions,CS16,Finished,13/06/2023 01:53:39,1,1,1,,,,,,,,,c3bfd67e-0983-11ee-bcc4-b8ca3a9f8401,85.827128,0.170076,n.a.,18.791406,3.027135
+E4B2S8,Unknown,GC8,100,CS16_No fractions,CS16,Finished,13/06/2023 02:30:40,1,1,1,,,,,,,,,efdd1d3b-0988-11ee-bcc4-b8ca3a9f8401,99.489983,0.207026,n.a.,21.807825,2.988239
+E4B1S9,Unknown,GD1,100,CS16_No fractions,CS16,Finished,13/06/2023 03:07:42,1,1,1,,,,,,,,,1bf38449-098e-11ee-bcc4-b8ca3a9f8401,119.664081,0.260893,n.a.,26.281648,3.989549
+E4B2S9,Unknown,GD2,100,CS16_No fractions,CS16,Finished,13/06/2023 03:44:44,1,1,1,,,,,,,,,486b45dc-0993-11ee-bcc4-b8ca3a9f8401,123.012145,0.255347,n.a.,27.03949,3.723497
+E4B1S10,Unknown,GD3,100,CS16_No fractions,CS16,Finished,13/06/2023 04:21:45,1,1,1,,,,,,,,,7483843f-0998-11ee-bcc4-b8ca3a9f8401,134.985462,0.29288,n.a.,29.956541,4.511362
+E4B2S10,Unknown,GD4,100,CS16_No fractions,CS16,Finished,13/06/2023 04:58:47,1,1,1,,,,,,,,,a094916c-099d-11ee-bcc4-b8ca3a9f8401,146.529596,0.307856,n.a.,32.269892,4.480697
+E4B1S11,Unknown,GD5,100,CS16_No fractions,CS16,Finished,13/06/2023 05:35:49,1,1,1,,,,,,,,,ccde182b-09a2-11ee-bcc4-b8ca3a9f8401,185.445308,0.415797,n.a.,40.634816,6.167079
+E4B2S11,Unknown,GD6,100,CS16_No fractions,CS16,Finished,13/06/2023 06:12:50,1,1,1,,,,,,,,,f94d2920-09a7-11ee-bcc4-b8ca3a9f8401,221.812088,0.501757,n.a.,48.982587,6.899649
+E4B1S12,Unknown,GD7,100,CS16_No fractions,CS16,Finished,13/06/2023 06:49:52,1,1,1,,,,,,,,,2558e41d-09ad-11ee-bcc4-b8ca3a9f8401,294.663531,0.702463,n.a.,64.380559,9.892475
+E4B2S12,Unknown,GD8,100,CS16_No fractions,CS16,Finished,13/06/2023 07:26:54,1,1,1,,,,,,,,,515cafd0-09b2-11ee-bcc4-b8ca3a9f8401,319.11547,0.753573,n.a.,70.463218,10.027267
+E4B1S13,Unknown,GE1,100,CS16_No fractions,CS16,Finished,13/06/2023 08:03:56,1,1,1,,,,,,,,,7da969f5-09b7-11ee-bcc4-b8ca3a9f8401,324.472317,1.632584,n.a.,144.646524,17.160195
+E4B2S13,Unknown,GE2,100,CS16_No fractions,CS16,Finished,13/06/2023 08:40:57,1,1,1,,,,,,,,,a9fdc081-09bc-11ee-bcc4-b8ca3a9f8401,297.438435,2.237057,n.a.,202.861882,20.538564
+E4B1S14,Unknown,GE3,100,CS16_No fractions,CS16,Finished,13/06/2023 09:17:58,1,1,1,,,,,,,,,d5de23e9-09c1-11ee-bcc4-b8ca3a9f8401,143.897149,3.366094,n.a.,282.552866,28.73004
+E4B2S14,Unknown,GE4,100,CS16_No fractions,CS16,Finished,13/06/2023 09:54:59,1,1,1,,,,,,,,,01c34300-09c7-11ee-bcc4-b8ca3a9f8401,27.079811,5.719843,n.a.,431.845838,43.094039
+Cryst2-air,Unknown,GE5,100,CS16_No fractions,CS16,Finished,13/06/2023 10:32:05,1,1,1,,,,,,,,,2dcccbe9-09cc-11ee-bcc4-b8ca3a9f8401,0.288072,0.021315,n.a.,4.362399,2.057721
+Cryst2-MQ,Unknown,GE6,100,CS16_No fractions,CS16,Finished,13/06/2023 23:39:35,1,1,1,,,,,,,,,30707ba6-0a3a-11ee-bcc4-b8ca3a9f8401,0.011917,0.001449,n.a.,3.136146,2.905645
+Cryst2-SeaNaCl,Unknown,GE7,100,CS16_No fractions,CS16,Finished,14/06/2023 00:16:37,1,1,1,,,,,,,,,5ff953f7-0a3f-11ee-bcc4-b8ca3a9f8401,0.051638,0.00142,n.a.,2.931826,2.727168
+Cryst2-SatNaCl,Unknown,GE8,100,CS16_No fractions,CS16,Finished,14/06/2023 00:53:38,1,1,1,,,,,,,,,8bdf7c77-0a44-11ee-bcc4-b8ca3a9f8401,5.451758,0.006357,n.a.,2.343571,2.102196
+SW50,Standard,GA1,100,CS16_No fractions,CS16,Finished,14/06/2023 01:30:40,1,1,1,,,,,,,,,b7c41e51-0a49-11ee-bcc4-b8ca3a9f8401,345.944363,8.164547,n.a.,77.379242,14.892914
+SW25,Standard,GA2,100,CS16_No fractions,CS16,Finished,14/06/2023 02:07:41,1,1,1,,,,,,,,,e42e1ebf-0a4e-11ee-bcc4-b8ca3a9f8401,182.986745,4.257131,n.a.,40.899981,7.644527
+SW20,Standard,GA3,100,CS16_No fractions,CS16,Finished,14/06/2023 02:44:43,1,1,1,,,,,,,,,10846fd4-0a54-11ee-bcc4-b8ca3a9f8401,138.593587,3.19757,n.a.,30.880531,5.693809
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
