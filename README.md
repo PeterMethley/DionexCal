@@ -63,6 +63,7 @@ This is done by editing the script, immediately after the imports.
 Make sure the output file is not open while running the script.
 
 The script can be run inside (a) Jupyter notebook cell(s), or by calling the following terminal command whilst your Python environment is activated and you are navigated to the folder containing the script:
+
 `python dionex_calibration.py`
 
 If you are running from the terminal, the script will try to open a browser tab to display an interactive version of the calibration plots. Once the script has finished, it will print `Calibration complete!`
