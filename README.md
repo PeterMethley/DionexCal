@@ -48,7 +48,7 @@ Plots will also be exported in vector format to `calibration_plots.pdf`.
 
 ### Configuration
 
-This is done by editing the script, immediately after the imports.
+This is done by editing the first section of the script.
 
 | Variable    | Value                                                                                                                                                                                                                                                                                 |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
